@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgukobong
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in learning designs and technology
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on data science and artificial intelligence 
 - 📫 You can reach me on Twitter @sgukobong
